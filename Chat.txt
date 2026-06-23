@@ -1,0 +1,24 @@
+Generative AI Documentation
+
+Project:
+Global Happiness Analytics and Prediction
+
+AI Tool Used:
+ChatGPT by OpenAI
+
+Purpose of AI Assistance:
+
+Generative AI was used during this project to support:
+
+- Dataset selection evaluation
+- Project structure planning
+- Exploratory Data Analysis guidance
+- Data preprocessing strategy
+- Machine Learning model implementation
+- Regression model comparison
+- Ridge Regression hyperparameter tuning explanation
+- GitHub documentation preparation
+
+AI Chat Link:
+
+PASTE CHATGPT SHARED LINK HERE
